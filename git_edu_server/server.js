@@ -5,6 +5,8 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
+var news = 1;
+var news2 = 2;
 rp(url)
 //news
   .then(function(html){
